@@ -1,7 +1,6 @@
 # Chrome Extension Sample
 
-
-Chrome Extension, TypeScript and Visual Studio Code
+Chrome Extension Sample
 
 ## Prerequisites
 
